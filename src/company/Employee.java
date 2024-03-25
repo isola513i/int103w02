@@ -1,5 +1,2 @@
-package company;
-
-public class Employee {
-
+package company;public class Employee {
 }

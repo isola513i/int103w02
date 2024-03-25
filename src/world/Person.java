@@ -1,6 +1,2 @@
-package world;
-
-public class Person {
-
-    String name;
+package world;public class Person {
 }
