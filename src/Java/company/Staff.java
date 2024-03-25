@@ -1,4 +1,4 @@
-package company;
+package Java.company;
 
 public class Staff extends Employee {
     private final int days;

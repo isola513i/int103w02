@@ -1,9 +1,8 @@
-package world;
+package Java.world;
 
 import java.util.Objects;
-import java.util.StringJoiner;
 
-public class Person {
+public class Person{
     private String name;
 
     public Person(String name) {
@@ -42,4 +41,5 @@ public class Person {
     protected String getContent() {
         return "name:" + name;
     }
+
 }
